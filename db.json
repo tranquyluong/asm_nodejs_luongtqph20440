@@ -1,0 +1,23 @@
+{
+  "product": [
+    {
+      "name": "Luong dep trai",
+      "price": "275.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "id": 3
+    },
+    {
+      "Name": "12444",
+      "price": "deplam",
+      "Description": "anh luong dp tra",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "tranquyluong123@gmail.com",
+      "password": "$2a$10$sFqvS3g6bUq0o4ftaeirT.I6M2ukIsPCb7EkRUFIWw.dEMZqB94eu",
+      "id": 1
+    }
+  ]
+}
